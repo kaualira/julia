@@ -160,31 +160,3 @@ body {
     width: 100%;
 }
 
-.hamburguer1 {
-    width: 1000px;
-    height: 266px;
-    background: #001aff;
-    display: flex;
-    justify-content: start;
-    margin-left: auto;
-    margin-right: auto;
-    
-}
-.burguer1 {
-    width: 400px;
-}
-.burguer1titulo {
-    margin-left: auto;
-    margin-right: auto;
-    font-family: 'Caveat', cursive;
-    font-size: 36px;
-    color: #ffffff;
-}
-.burguertext {
-    display: flex;
-    
-    height: 160px;
-    font-family: 'Caveat', cursive;
-    font-size: 20px;
-    color: #ffffff;
-}
