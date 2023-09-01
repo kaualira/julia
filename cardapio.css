@@ -524,3 +524,132 @@ body {
     font-family: 'Caveat', cursive;
     font-size: 20px;
 }
+.kidshamburguer2 {
+    width: 1000px;
+    height: 300px;
+    background: #000000;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+}
+.japao {
+    height: 300px;
+    width: 400px;
+    border-radius: 15px;
+}
+.kidshamburguer2 h1 {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    right: 450px;
+    top: 3600px;
+    font-size: 36px;
+    font-family: 'Caveat', cursive;
+}
+.kidshamburguer2 li {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 3700px;
+    width: 400px;
+    right: 360px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.kidshamburguer2 p {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 3850px;
+    width: 400px;
+    right: 40px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.kidshamburguer3 {
+    width: 1000px;
+    height: 300px;
+    background: #000000;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+}
+.polonia {
+    height: 300px;
+    width: 400px;
+    border-radius: 15px;
+}
+.kidshamburguer3 h1 {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    right: 450px;
+    top: 3950px;
+    font-size: 36px;
+    font-family: 'Caveat', cursive;
+}
+.kidshamburguer3 li {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 4050px;
+    width: 400px;
+    right: 360px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.kidshamburguer3 p {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 4200px;
+    width: 400px;
+    right: 40px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.kidshamburguer4 {
+    width: 1000px;
+    height: 300px;
+    background: #000000;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+}
+.suiça {
+    height: 300px;
+    width: 400px;
+    border-radius: 15px;
+}
+.kidshamburguer4 h1 {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    right: 450px;
+    top: 4300px;
+    font-size: 36px;
+    font-family: 'Caveat', cursive;
+}
+.kidshamburguer4 li {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 4400px;
+    width: 400px;
+    right: 360px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.kidshamburguer4 p {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 4550px;
+    width: 400px;
+    right: 40px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
