@@ -34,7 +34,7 @@
                 <a href="#"><i class="bi bi-heart-fill" style="font-size: 30px; color: rgb(255, 255, 255);"></i></a>
                 </div>
                 <div class="carrinho">
-                <a href="#"><i class="bi bi-cart-fill" style="font-size: 30px; color: rgb(255, 255, 255);"></i></a>
+                <a href="compra.html"><i class="bi bi-cart-fill" style="font-size: 30px; color: rgb(255, 255, 255);"></i></a>
                 </div>
                 <div class="contato">
                 <a href="#"><i class="bi bi-person-fill" style="font-size: 30px; color: rgb(255, 255, 255);"></i></a>
@@ -44,8 +44,7 @@
         <div class="navbarlaranja">
             <ul>
                 <a href="https://www.youtube.com/watch?v=kmfok5MtWkI"><li>Home</li></a>
-                <a href="#">Lanches</a>
-                <a href="#"><li>Promoções</li></a>
+                <a href="cardapio.html">Lanches</a>
                 <a href="#"><li>Contato</li></a>
             </ul>
         </div>
@@ -58,13 +57,17 @@
             <img src="lanches/australiaburger.png" class="australian">
             <h1> Australian Burguer</h1>
             <li>Hambúrguer de 180 g, pulled pork - costelinha de porco marinada e assada lentamente, desfiada e misturada ao nosso molho barbecue com a presença da pimenta caiena (não é possível tirar a pimenta por fazer parte do preparo da costelinha), cheddar cremoso e salada coleslaw (base de repolhos, cenoura, creme de leite e limão siciliano), servido no pão australiano.</li>
-            <p>R$:39,00</p>
+            qtd: <input type="number" value="1" min="1" max="10" id="qtd1" class="dois">
+			<button type="button" id="adicionar1" id="produto1" class="um" onclick="AddCarrinho('AustralianBurguer', document.getElementById('qtd1').value, '39.00', 1)"> Comprar </button>
+            <strong>R$ 39,00</strong>
         </div>
         <div class="basehamburguer2">
             <img src="lanches/brasilburger.png" class="brasil">
             <h1> Brasil Burguer</h1>
             <li>[APIMENTADO] Hambúrguer de 180 g, queijo cheddar especial, muita cebola crispy sequinhas, bacon glaceado, fatias de pimenta jalapeño e nosso molho barbecue artesanal, servido no pão australiano.</li>
-            <p>R$:39,00</p>
+            qtd: <input type="number" value="1" min="1" max="10" id="qtd1" class="dois">
+			<button type="button" id="adicionar1" id="produto1" class="um" onclick="AddCarrinho('burguer', document.getElementById('qtd1').value, '39.00', 1)"> Comprar </button>
+            <strong>R$:39,00</strong>
         </div>
         <div class="basehamburguer3">
             <img src="lanches/italiaburger.jpeg" class="italia">
@@ -187,6 +190,16 @@
         </div>
     </section>
     <br><br><br>
+    <script>
+        function AddCarrinho(produto, qtd, valor, posicao)
+        {
+            localStorage.setItem("produto" + posicao, produto);
+            localStorage.setItem("qtd" + posicao, qtd);
+            valor = valor * qtd;
+            localStorage.setItem("valor" + posicao, valor);
+            alert("Produto adicionado ao carrinho!");
+        }
+    </script>
     <footer>
         <div class="footer">
             <div class="column">

@@ -118,6 +118,12 @@ body {
     }
 
 }
+.localicons {
+    display: flex;
+    justify-content: end;
+    
+}
+
 
 .coracao {
     display: flex;
@@ -139,6 +145,18 @@ body {
     margin-top: -33px;
     margin-right: 200px;
 }
+
+.icons a {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+/* .icons {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 20px;
+} */
+
 
 .navbarlaranja {
     width: 100%;
@@ -215,6 +233,23 @@ body {
     right: 40px;
     font-family: 'Caveat', cursive;
     font-size: 20px;
+}
+
+.um {
+    width: 200px;
+    height: 30px;
+    position: absolute;
+    left: 180px;
+    top: 675px
+    
+}
+.dois {
+    width: 70px;
+    height: 30px;
+    position: absolute;
+    left: 390px;
+    top: 673px
+    
 }
 .basehamburguer2 {
     width: 1000px;
@@ -497,8 +532,8 @@ body {
 .kidshamburguer h1 {
     color: rgb(255, 255, 255);
     position: absolute;
-    right: 450px;
-    top: 3225px;
+    right: 400px;
+    top: 3175px;
     font-size: 36px;
     font-family: 'Caveat', cursive;
 }
@@ -507,9 +542,9 @@ body {
     list-style: none;
     color: #ffffff;
     position: absolute;
-    top: 3300px;
-    width: 400px;
-    right: 360px;
+    top: 3250px;
+    /* width: 400px; */
+    right: 400px;
     font-family: 'Caveat', cursive;
     font-size: 20px;
 }
@@ -518,7 +553,7 @@ body {
     list-style: none;
     color: #ffffff;
     position: absolute;
-    top: 3500px;
+    top: 3400px;
     width: 400px;
     right: 40px;
     font-family: 'Caveat', cursive;
@@ -541,7 +576,7 @@ body {
     color: rgb(255, 255, 255);
     position: absolute;
     right: 450px;
-    top: 3600px;
+    top: 3550px;
     font-size: 36px;
     font-family: 'Caveat', cursive;
 }
@@ -550,7 +585,7 @@ body {
     list-style: none;
     color: #ffffff;
     position: absolute;
-    top: 3700px;
+    top: 3650px;
     width: 400px;
     right: 360px;
     font-family: 'Caveat', cursive;
@@ -561,7 +596,7 @@ body {
     list-style: none;
     color: #ffffff;
     position: absolute;
-    top: 3850px;
+    top: 3800px;
     width: 400px;
     right: 40px;
     font-family: 'Caveat', cursive;
@@ -584,7 +619,7 @@ body {
     color: rgb(255, 255, 255);
     position: absolute;
     right: 450px;
-    top: 3950px;
+    top: 3900px;
     font-size: 36px;
     font-family: 'Caveat', cursive;
 }
@@ -593,7 +628,7 @@ body {
     list-style: none;
     color: #ffffff;
     position: absolute;
-    top: 4050px;
+    top: 4000px;
     width: 400px;
     right: 360px;
     font-family: 'Caveat', cursive;
@@ -604,7 +639,7 @@ body {
     list-style: none;
     color: #ffffff;
     position: absolute;
-    top: 4200px;
+    top: 4150px;
     width: 400px;
     right: 40px;
     font-family: 'Caveat', cursive;
@@ -678,7 +713,7 @@ body {
     color: rgb(255, 255, 255);
     position: absolute;
     right: 450px;
-    top: 5025px;
+    top: 4950px;
     font-size: 36px;
     font-family: 'Caveat', cursive;
 }
@@ -687,7 +722,7 @@ body {
     list-style: none;
     color: #ffffff;
     position: absolute;
-    top: 5175px;
+    top: 5030px;
     width: 400px;
     right: 360px;
     font-family: 'Caveat', cursive;
@@ -698,7 +733,7 @@ body {
     list-style: none;
     color: #ffffff;
     position: absolute;
-    top: 5250px;
+    top: 5200px;
     width: 400px;
     right: 40px;
     font-family: 'Caveat', cursive;
@@ -721,7 +756,7 @@ body {
     color: rgb(255, 255, 255);
     position: absolute;
     right: 450px;
-    top: 5400px;
+    top: 5325px;
     font-size: 36px;
     font-family: 'Caveat', cursive;
 }
@@ -730,7 +765,7 @@ body {
     list-style: none;
     color: #ffffff;
     position: absolute;
-    top: 5550px;
+    top: 5400px;
     width: 400px;
     right: 360px;
     font-family: 'Caveat', cursive;
@@ -741,7 +776,7 @@ body {
     list-style: none;
     color: #ffffff;
     position: absolute;
-    top: 5625px;
+    top: 5550px;
     width: 400px;
     right: 40px;
     font-family: 'Caveat', cursive;
@@ -764,7 +799,7 @@ body {
     color: rgb(255, 255, 255);
     position: absolute;
     right: 450px;
-    top: 5775px;
+    top: 5675px;
     font-size: 36px;
     font-family: 'Caveat', cursive;
 }
@@ -773,7 +808,7 @@ body {
     list-style: none;
     color: #ffffff;
     position: absolute;
-    top: 5925px;
+    top: 5750px;
     width: 400px;
     right: 360px;
     font-family: 'Caveat', cursive;
@@ -784,7 +819,7 @@ body {
     list-style: none;
     color: #ffffff;
     position: absolute;
-    top: 6000px;
+    top: 5900px;
     width: 400px;
     right: 40px;
     font-family: 'Caveat', cursive;
@@ -807,7 +842,7 @@ body {
     color: rgb(255, 255, 255);
     position: absolute;
     right: 450px;
-    top: 6150px;
+    top: 6075px;
     font-size: 36px;
     font-family: 'Caveat', cursive;
 }
@@ -816,7 +851,7 @@ body {
     list-style: none;
     color: #ffffff;
     position: absolute;
-    top: 6300px;
+    top: 6150px;
     width: 400px;
     right: 360px;
     font-family: 'Caveat', cursive;
@@ -827,7 +862,7 @@ body {
     list-style: none;
     color: #ffffff;
     position: absolute;
-    top: 6375px;
+    top: 6300px;
     width: 400px;
     right: 40px;
     font-family: 'Caveat', cursive;
@@ -858,7 +893,7 @@ body {
     color: rgb(255, 255, 255);
     position: absolute;
     right: 450px;
-    top: 6850px;
+    top: 6725px;
     font-size: 36px;
     font-family: 'Caveat', cursive;
 }
@@ -867,7 +902,7 @@ body {
     list-style: none;
     color: #ffffff;
     position: absolute;
-    top: 7000px;
+    top: 6800px;
     width: 400px;
     right: 360px;
     font-family: 'Caveat', cursive;
@@ -878,7 +913,7 @@ body {
     list-style: none;
     color: #ffffff;
     position: absolute;
-    top: 7050px;
+    top: 6925px;
     width: 400px;
     right: 40px;
     font-family: 'Caveat', cursive;
@@ -901,7 +936,7 @@ body {
     color: rgb(255, 255, 255);
     position: absolute;
     right: 450px;
-    top: 7200px;
+    top: 7100px;
     font-size: 36px;
     font-family: 'Caveat', cursive;
 }
@@ -910,7 +945,7 @@ body {
     list-style: none;
     color: #ffffff;
     position: absolute;
-    top: 7350px;
+    top: 7200px;
     width: 400px;
     right: 360px;
     font-family: 'Caveat', cursive;
@@ -921,7 +956,7 @@ body {
     list-style: none;
     color: #ffffff;
     position: absolute;
-    top: 7500px;
+    top: 7325px;
     width: 400px;
     right: 40px;
     font-family: 'Caveat', cursive;
@@ -944,7 +979,7 @@ body {
     color: rgb(255, 255, 255);
     position: absolute;
     right: 450px;
-    top: 7600px;
+    top: 7450px;
     font-size: 36px;
     font-family: 'Caveat', cursive;
 }
@@ -953,7 +988,7 @@ body {
     list-style: none;
     color: #ffffff;
     position: absolute;
-    top: 7750px;
+    top: 7550px;
     width: 400px;
     right: 360px;
     font-family: 'Caveat', cursive;
@@ -964,7 +999,7 @@ body {
     list-style: none;
     color: #ffffff;
     position: absolute;
-    top: 7800px;
+    top: 7650px;
     width: 400px;
     right: 40px;
     font-family: 'Caveat', cursive;
@@ -987,7 +1022,7 @@ body {
     color: rgb(255, 255, 255);
     position: absolute;
     right: 450px;
-    top: 7950px;
+    top: 7825px;
     font-size: 36px;
     font-family: 'Caveat', cursive;
 }
@@ -996,7 +1031,7 @@ body {
     list-style: none;
     color: #ffffff;
     position: absolute;
-    top: 8100px;
+    top: 7925px;
     width: 400px;
     right: 360px;
     font-family: 'Caveat', cursive;
@@ -1007,7 +1042,7 @@ body {
     list-style: none;
     color: #ffffff;
     position: absolute;
-    top: 8200px;
+    top: 8015px;
     width: 400px;
     right: 40px;
     font-family: 'Caveat', cursive;
