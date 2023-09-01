@@ -833,3 +833,183 @@ body {
     font-family: 'Caveat', cursive;
     font-size: 20px;
 }
+
+/* ksalkslaksal */
+
+.bebida {
+    width: 100%;
+    margin-top: 70px;
+}
+
+.bebidas {
+    width: 1000px;
+    height: 300px;
+    background: #000000;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+}
+.agua {
+    height: 300px;
+    width: 400px;
+    border-radius: 15px;
+}
+.bebidas h1 {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    right: 450px;
+    top: 6850px;
+    font-size: 36px;
+    font-family: 'Caveat', cursive;
+}
+.bebidas li {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 7000px;
+    width: 400px;
+    right: 360px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.bebidas p {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 7050px;
+    width: 400px;
+    right: 40px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.bebidas2 {
+    width: 1000px;
+    height: 300px;
+    background: #000000;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+}
+.refri {
+    height: 300px;
+    width: 400px;
+    border-radius: 15px;
+}
+.bebidas2 h1 {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    right: 450px;
+    top: 7200px;
+    font-size: 36px;
+    font-family: 'Caveat', cursive;
+}
+.bebidas2 li {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 7350px;
+    width: 400px;
+    right: 360px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.bebidas2 p {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 7500px;
+    width: 400px;
+    right: 40px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.bebidas3 {
+    width: 1000px;
+    height: 300px;
+    background: #000000;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+}
+.cerva1 {
+    height: 300px;
+    width: 400px;
+    border-radius: 15px;
+}
+.bebidas3 h1 {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    right: 450px;
+    top: 7600px;
+    font-size: 36px;
+    font-family: 'Caveat', cursive;
+}
+.bebidas3 li {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 7750px;
+    width: 400px;
+    right: 360px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.bebidas3 p {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 7800px;
+    width: 400px;
+    right: 40px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.bebidas4 {
+    width: 1000px;
+    height: 300px;
+    background: #000000;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+}
+.cerva2 {
+    height: 300px;
+    width: 400px;
+    border-radius: 15px;
+}
+.bebidas4 h1 {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    right: 450px;
+    top: 7950px;
+    font-size: 36px;
+    font-family: 'Caveat', cursive;
+}
+.bebidas4 li {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 8100px;
+    width: 400px;
+    right: 360px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.bebidas4 p {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 8200px;
+    width: 400px;
+    right: 40px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
