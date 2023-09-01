@@ -653,3 +653,183 @@ body {
     font-family: 'Caveat', cursive;
     font-size: 20px;
 }
+
+/* ajsdklasdklasjdklas */
+
+.acomp {
+    width: 100%;
+    margin-top: 70px;
+}
+
+.acompanhamento {
+    width: 1000px;
+    height: 300px;
+    background: #000000;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+}
+.trad {
+    height: 300px;
+    width: 400px;
+    border-radius: 15px;
+}
+.acompanhamento h1 {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    right: 450px;
+    top: 5025px;
+    font-size: 36px;
+    font-family: 'Caveat', cursive;
+}
+.acompanhamento li {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 5175px;
+    width: 400px;
+    right: 360px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.acompanhamento p {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 5250px;
+    width: 400px;
+    right: 40px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.acompanhamento2 {
+    width: 1000px;
+    height: 300px;
+    background: #000000;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+}
+.bacon {
+    height: 300px;
+    width: 400px;
+    border-radius: 15px;
+}
+.acompanhamento2 h1 {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    right: 450px;
+    top: 5400px;
+    font-size: 36px;
+    font-family: 'Caveat', cursive;
+}
+.acompanhamento2 li {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 5550px;
+    width: 400px;
+    right: 360px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.acompanhamento2 p {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 5625px;
+    width: 400px;
+    right: 40px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.acompanhamento3 {
+    width: 1000px;
+    height: 300px;
+    background: #000000;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+}
+.cebola {
+    height: 300px;
+    width: 400px;
+    border-radius: 15px;
+}
+.acompanhamento3 h1 {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    right: 450px;
+    top: 5775px;
+    font-size: 36px;
+    font-family: 'Caveat', cursive;
+}
+.acompanhamento3 li {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 5925px;
+    width: 400px;
+    right: 360px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.acompanhamento3 p {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 6000px;
+    width: 400px;
+    right: 40px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.acompanhamento4 {
+    width: 1000px;
+    height: 300px;
+    background: #000000;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+}
+.nugget {
+    height: 300px;
+    width: 400px;
+    border-radius: 15px;
+}
+.acompanhamento4 h1 {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    right: 450px;
+    top: 6150px;
+    font-size: 36px;
+    font-family: 'Caveat', cursive;
+}
+.acompanhamento4 li {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 6300px;
+    width: 400px;
+    right: 360px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.acompanhamento4 p {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 6375px;
+    width: 400px;
+    right: 40px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
