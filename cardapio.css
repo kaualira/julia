@@ -205,3 +205,322 @@ body {
     font-family: 'Caveat', cursive;
     font-size: 20px;
 }
+.basehamburguer p {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 675px;
+    width: 400px;
+    right: 40px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.basehamburguer2 {
+    width: 1000px;
+    height: 300px;
+    background: #000000;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+}
+.brasil {
+    height: 300px;
+    width: 400px;
+    border-radius: 15px;
+}
+.basehamburguer2 h1 {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    right: 450px;
+    top: 760px;
+    font-size: 36px;
+    font-family: 'Caveat', cursive;
+}
+.basehamburguer2 li {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 830px;
+    width: 400px;
+    right: 360px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.basehamburguer2 p {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 1030px;
+    width: 400px;
+    right: 40px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.basehamburguer3 {
+    width: 1000px;
+    height: 300px;
+    background: #000000;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+}
+.italia {
+    height: 300px;
+    width: 400px;
+    border-radius: 15px;
+}
+.basehamburguer3 h1 {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    right: 450px;
+    top: 1130px;
+    font-size: 36px;
+    font-family: 'Caveat', cursive;
+}
+.basehamburguer3 li {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 1200px;
+    width: 400px;
+    right: 360px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.basehamburguer3 p {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 1400px;
+    width: 400px;
+    right: 40px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.basehamburguer4 {
+    width: 1000px;
+    height: 300px;
+    background: #000000;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+}
+.laos {
+    height: 300px;
+    width: 400px;
+    border-radius: 15px;
+}
+.basehamburguer4 h1 {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    right: 450px;
+    top: 1500px;
+    font-size: 36px;
+    font-family: 'Caveat', cursive;
+}
+.basehamburguer4 li {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 1570px;
+    width: 400px;
+    right: 360px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.basehamburguer4 p {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 1770px;
+    width: 400px;
+    right: 40px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.basehamburguer5 {
+    width: 1000px;
+    height: 300px;
+    background: #000000;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+}
+.letonia {
+    height: 300px;
+    width: 400px;
+    border-radius: 15px;
+}
+.basehamburguer5 h1 {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    right: 450px;
+    top: 1870px;
+    font-size: 36px;
+    font-family: 'Caveat', cursive;
+}
+.basehamburguer5 li {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 1940px;
+    width: 400px;
+    right: 360px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.basehamburguer5 p {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 2140px;
+    width: 400px;
+    right: 40px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.basehamburguer6 {
+    width: 1000px;
+    height: 300px;
+    background: #000000;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+}
+.tailandia {
+    height: 300px;
+    width: 400px;
+    border-radius: 15px;
+}
+.basehamburguer6 h1 {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    right: 450px;
+    top: 2240px;
+    font-size: 36px;
+    font-family: 'Caveat', cursive;
+}
+.basehamburguer6 li {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 2310px;
+    width: 400px;
+    right: 360px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.basehamburguer6 p {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 2510px;
+    width: 400px;
+    right: 40px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.basehamburguer7 {
+    width: 1000px;
+    height: 300px;
+    background: #000000;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+}
+.taiwan {
+    height: 300px;
+    width: 400px;
+    border-radius: 15px;
+}
+.basehamburguer7 h1 {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    right: 450px;
+    top: 2610px;
+    font-size: 36px;
+    font-family: 'Caveat', cursive;
+}
+.basehamburguer7 li {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 2680px;
+    width: 400px;
+    right: 360px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.basehamburguer7 p {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 2880px;
+    width: 400px;
+    right: 40px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+
+/* jkdbsajkdbasjkbaskb */
+
+.menukids {
+    width: 100%;
+    margin-top: 70px;
+}
+.kidshamburguer {
+    width: 1000px;
+    height: 300px;
+    background: #000000;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+}
+.frança {
+    height: 300px;
+    width: 400px;
+    border-radius: 15px;
+}
+.kidshamburguer h1 {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    right: 450px;
+    top: 3225px;
+    font-size: 36px;
+    font-family: 'Caveat', cursive;
+}
+.kidshamburguer li {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 3300px;
+    width: 400px;
+    right: 360px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.kidshamburguer p {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    position: absolute;
+    top: 3500px;
+    width: 400px;
+    right: 40px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
