@@ -119,12 +119,25 @@ body {
 
 }
 
-.icons {
+.coracao {
     display: flex;
-    justify-content: space-between;
-    margin: -60px 500px;
-    margin-right: 70px;
-    margin-left: 1000px;
+    justify-content: end;
+    margin-top: -55px;
+    margin-right: 300px;
+}
+
+.carrinho {
+    display: flex;
+    justify-content: end;
+    margin-top: -37px;
+    margin-right: 250px;
+}
+
+.contato {
+    display: flex;
+    justify-content: end;
+    margin-top: -33px;
+    margin-right: 200px;
 }
 
 .navbarlaranja {
@@ -138,14 +151,14 @@ body {
     display: flex;
     justify-content:center;
     list-style: none;
-    padding: 0 20px;
+    margin: 0 20px;
     text-decoration: none;
     
 }
 
 .navbarlaranja a {
     display: flex;
-    padding: 0px 70px;
+    margin: 0px 70px;
     font-size: 24px;
     font-family: 'Caveat', cursive;
     text-decoration: none;
